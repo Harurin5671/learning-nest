@@ -3,5 +3,5 @@
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.configPath": ".prettierrc",
-  "cSpell.words": ["nestjs"]
+  "cSpell.words": ["dtos", "nestjs"]
 }
